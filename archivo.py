@@ -8,3 +8,4 @@ def sumar_dos_numeros(primer_numero:int, segundo_numero:int)->int:
        int: la suma de primer_numero y segundo numero
     """
     return primer_numero+segundo_numero
+    
